@@ -1,11 +1,7 @@
-# Computer Science and Chemistry Student
+# Quantum Mechanics (QM)
 
-### Education
+## Basics of Mathematics in QM 
 
-B.A. in Computer Science, Macalester College, Class of 2025
+### The Schrödinger Equation
 
-### Projects
 
-LIVSE
-
-Physics Simulation
