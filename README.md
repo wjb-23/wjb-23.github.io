@@ -1,7 +1,7 @@
 # Quantum Mechanics (QM)
 
 ## Basics of Mathematics in QM 
-The \textbf{Hamiltonian} is an idea from classical mechanics, it describes the total energy of the system, which is the sum of the kinetic and potential energy in a system.
+The Hamiltonian is an idea from classical mechanics, it describes the total energy of the system, which is the sum of the kinetic and potential energy in a system.
 ### The Schrödinger Equation
 
 
